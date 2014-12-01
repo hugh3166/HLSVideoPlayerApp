@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<video>
+   <catalog id="1" name="数学">
+      <subject id="1" name="数学1">
+         <item id="v103">
+            <title>Maeve Ascendant</title>
+            <price>5.95</price>
+            <date>2000-11-17</date>
+            <url>http://localhost/~young/stream/tbbt0803.m3u8</url>
+            <description>After the collapse of a nanotechnology 
+            society in England, the young survivors lay the 
+            foundation for a new society.</description>
+         </item>
+         <item id="v104">
+            <title>Oberon's Legacy</title>
+            <price>5.95</price>
+            <date>2001-03-10</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/8931899/streams/live/iphone/playlist.m3u8</url>
+            <description>In post-apocalypse England, the mysterious 
+            agent known only as Oberon helps to create a new life 
+            for the inhabitants of London. Sequel to Maeve 
+            Ascendant.</description>
+         </item>
+      </subject>
+      <subject id="2" name="数学2">
+         <item id="v105">
+            <title>The Sundered Grail</title>
+            <price>5.95</price>
+            <date>2001-09-10</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/8931899/streams/live/iphone/playlist.m3u8</url>
+            <description>The two daughters of Maeve, half-sisters, 
+            battle one another for control of England. Sequel to 
+            Oberon's Legacy.</description>
+         </item>
+         <item id="v106">
+            <title>Lover Birds</title>
+            <price>4.95</price>
+            <date>2000-09-02</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/12619575/streams/live/iphone/playlist.m3u8</url>
+            <description>When Carla meets Paul at an ornithology 
+            conference, tempers fly as feathers get ruffled.</description>
+         </item>
+      </subject>
+   </catalog>
+   <catalog id="2" name="英语">
+      <subject id="1" name="英语1">
+         <item id="v105">
+            <title>The Sundered Grail</title>
+            <price>5.95</price>
+            <date>2001-09-10</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/5883040/streams/live/iphone/playlist.m3u8</url>
+            <description>The two daughters of Maeve, half-sisters, 
+            battle one another for control of England. Sequel to 
+            Oberon's Legacy.</description>
+         </item>
+         <item id="v106">
+            <title>Lover Birds</title>
+            <price>4.95</price>
+            <date>2000-09-02</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/6785670/streams/live/iphone/playlist.m3u8</url>
+            <description>When Carla meets Paul at an ornithology 
+            conference, tempers fly as feathers get ruffled.</description>
+         </item>
+      </subject>
+      <subject id="2" name="英语2">
+         <item id="v107">
+            <title>Splish Splash</title>
+            <price>4.95</price>
+            <date>2000-11-02</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/6785670/streams/live/iphone/playlist.m3u8</url>
+            <description>A deep sea diver finds true love twenty 
+            thousand leagues beneath the sea.</description>
+         </item>
+         <item id="v108">
+            <title>Creepy Crawlies</title>
+            <price>4.95</price>
+            <date>2000-12-06</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/5883040/streams/live/iphone/playlist.m3u8</url>
+            <description>An anthology of horror stories about roaches,
+            centipedes, scorpions  and other insects.</description>
+         </item>
+      </subject>
+   </catalog>
+   <catalog id="3" name="物理">
+      <subject id="1" name="物理1">
+         <item id="v109">
+            <title>Paradox Lost</title>
+            <price>6.95</price>
+            <date>2000-11-02</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/11241820/streams/live/iphone/playlist.m3u8</url>
+            <description>After an inadvertant trip through a Heisenberg
+            Uncertainty Device, James Salway discovers the problems 
+            of being quantum.</description>
+         </item>
+         <item id="v110">
+            <title>Microsoft .NET: The Programming Bible</title>
+            <price>36.95</price>
+            <date>2000-12-09</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/9955693/streams/live/iphone/playlist.m3u8</url>
+            <description>Microsoft's .NET initiative is explored in 
+            detail in this deep programmer's reference.</description>
+         </item>
+      </subject>
+      <subject id="2" name="物理2">
+         <item id="v111">
+            <title>MSXML3: A Comprehensive Guide</title>
+            <price>36.95</price>
+            <date>2000-12-01</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/9955693/streams/live/iphone/playlist.m3u8</url>
+            <description>The Microsoft MSXML3 parser is covered in 
+            detail, with attention to XML DOM interfaces, XSLT processing, 
+            SAX and more.</description>
+         </item>
+         <item id="v112">
+            <title>Visual Studio 7: A Comprehensive Guide</title>
+            <price>49.95</price>
+            <date>2001-04-16</date>
+            <url>http://iphone-streaming.ustream.tv/uhls/11241820/streams/live/iphone/playlist.m3u8</url>
+            <description>Microsoft Visual Studio 7 is explored in depth,
+            looking at how Visual Basic, Visual C++, C#, and ASP+ are 
+            integrated into a comprehensive development 
+            environment.</description>
+         </item>
+      </subject>
+   </catalog>
+</video>
